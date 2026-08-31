@@ -1,13 +1,10 @@
-## Tecnologias que estudo
-<div style="display: inline_block"><br>
- <img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
- <img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
- <img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
- <img align="center" alt="Java" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
- <img align="center" alt="Csharp" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-</div> 
+# 👋 Olá, eu sou Renato Lima!
+
+- 🎓 Estudante de Desenvolvimento de Sistemas
+- 🐍 Atualmente aprofundando meus conhecimentos em Python
+- 📊 Interessado em Dados, Tecnologia e soluções aplicadas a negócios
+- 💼 Experiência profissional na área Comercial e Gestão no varejo
+- 🚀 Em transição de carreira e me preparando para ingressar no mercado de Tecnologia
+- 📈 Explorando como a Tecnologia e a Análise de Dados podem gerar melhores resultados para os negócios
+- 🛠️ Tecnologias em desenvolvimento: Python, Git e GitHub
+- 📫 Contato: renatodelimaleoncio@gmail.com
